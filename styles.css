@@ -258,3 +258,7 @@ body {
 .additional-info__languages-item {
   color: var(--secondary-text-color);
 }
+
+.contact-info__link {
+  width: 180px;
+}
